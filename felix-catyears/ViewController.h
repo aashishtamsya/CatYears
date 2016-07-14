@@ -8,8 +8,12 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<UITextFieldDelegate>
+- (IBAction)calculate:(id)sender;
+- (IBAction)clear:(id)sender;
 
+@property (weak, nonatomic) IBOutlet UITextField *textfieldYears;
+@property (weak, nonatomic) IBOutlet UILabel *labelText;
 
 @end
 
