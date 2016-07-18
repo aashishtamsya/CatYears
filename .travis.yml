@@ -1,9 +1,4 @@
 language: objective-c
-osx_image: xcode7.3
-xcode_project: felix-catyears.xcodeproj
-xcode_scheme: felix-catyears
-#script: 
-#    xctool -project felix-catyears. xcodeproj -scheme felix-catyears build -sdk iphonesimulator
-env:
-  global:
-    - LC_CTYPE=en_US.UTF-8
+osx_image: xcode7.2
+script:
+    xctool -project YOUY-PROJECT-NAME.xcodeproj -scheme YOUY-SCHEME-NAME build -sdk iphonesimulator
