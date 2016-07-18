@@ -13,6 +13,10 @@ Project covers basic fundamental UI elements in iOS like
 - UITextField
 - UITextFieldDelegate
 
+#Requirements
+* iOS 9.0+
+* Xcode 7.0
+
 ## Installation
 
 1. Download the zip or clone the repo to your desired directory.
