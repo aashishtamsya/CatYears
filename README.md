@@ -35,6 +35,3 @@ aashish.tamsya@gmail.com
 The content of [Cat Years](https://github.com/aashishtamsya/CatYears) itself is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
 
 See the [LICENSE](LICENSE.md) file for more info.
-
-####Master branch build status: 
-![](https://travis-ci.org/aashishtamsya/felix-catyears.svg?branch=master)
