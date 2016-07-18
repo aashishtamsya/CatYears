@@ -18,7 +18,7 @@ Project covers basic fundamental UI elements in iOS like
 1. Download the zip or clone the repo to your desired directory.
 
 ```sh
-$ git clone [git-repo-url] 
+$ git clone https://github.com/aashishtamsya/CatYears.git 
 ```
 
 ## Credits
@@ -28,4 +28,6 @@ aashish.tamsya@gmail.com
 
 ## License
 
-The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
+The content of [Cat Years](https://github.com/aashishtamsya/CatYears) itself is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
+
+See the [LICENSE](LICENSE.md) file for more info.
