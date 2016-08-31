@@ -13,7 +13,7 @@
 		E139F75A1D76A8E5008B80D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E139F7541D76A8E5008B80D0 /* Main.storyboard */; };
 		E139F75B1D76A8E5008B80D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E139F7551D76A8E5008B80D0 /* Assets.xcassets */; };
 		E139F75C1D76A8E5008B80D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E139F7561D76A8E5008B80D0 /* LaunchScreen.storyboard */; };
-		E139F75D1D76A8E5008B80D0 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E139F7571D76A8E5008B80D0 /* Info.plist */; };
+		E139F75E1D76AC58008B80D0 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E139F7571D76A8E5008B80D0 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -111,6 +111,7 @@
 				TargetAttributes = {
 					E139F7351D76A8A9008B80D0 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = VFRFP6ZDLY;
 					};
 				};
 			};
@@ -137,7 +138,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E139F75D1D76A8E5008B80D0 /* Info.plist in Resources */,
+				E139F75E1D76AC58008B80D0 /* Info.plist in Resources */,
 				E139F75C1D76A8E5008B80D0 /* LaunchScreen.storyboard in Resources */,
 				E139F75B1D76A8E5008B80D0 /* Assets.xcassets in Resources */,
 				E139F75A1D76A8E5008B80D0 /* Main.storyboard in Resources */,
@@ -248,6 +249,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = ATCatYears/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.felix.aashishtamsya.ATCatYears;
@@ -259,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = ATCatYears/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.felix.aashishtamsya.ATCatYears;
@@ -285,6 +288,7 @@
 				E139F74F1D76A8AB008B80D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
