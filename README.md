@@ -25,6 +25,15 @@ Project covers basic fundamental UI elements in iOS like
 $ git clone https://github.com/aashishtamsya/CatYears.git 
 ```
 
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request 😉 😊
+
+
 ## Credits
 
 Aashish Tamsya [@ChiefAashish](https://www.twitter.com/chiefaashish),
@@ -32,6 +41,6 @@ aashish.tamsya@gmail.com
 
 ## License
 
-The content of [Cat Years](https://github.com/aashishtamsya/CatYears) itself is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
+The content of [*Cat Years*](https://github.com/aashishtamsya/CatYears) itself is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
 
 See the [LICENSE](LICENSE.md) file for more info.
