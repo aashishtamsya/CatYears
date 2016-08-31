@@ -1,8 +1,8 @@
 //
 //  ViewController.m
-//  felix-catyears
+//  ATCatYears
 //
-//  Created by Felix ITs 04 on 14/07/16.
+//  Created by Aashish Tamsya on 14/07/16.
 //  Copyright © 2016 Aashish Tamsya. All rights reserved.
 //
 
@@ -33,11 +33,10 @@
 }
 
 -(void)getCatYears {
+    
     if (self.textfieldYears.text.length > 0) {
         int humanYears = self.textfieldYears.text.intValue;
-        
         int catYears = humanYears * 7;
-        
         self.labelText.text = [NSString stringWithFormat:@"Your age in Cat Years is %d.",catYears];
     }
     else {

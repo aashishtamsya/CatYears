@@ -1,8 +1,8 @@
 //
 //  AppDelegate.h
-//  felix-catyears
+//  ATCatYears
 //
-//  Created by Felix ITs 04 on 14/07/16.
+//  Created by Aashish Tamsya on 14/07/16.
 //  Copyright © 2016 Aashish Tamsya. All rights reserved.
 //
 
