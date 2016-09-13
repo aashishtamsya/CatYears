@@ -36,7 +36,7 @@
     
     if (self.textfieldYears.text.length > 0) {
         int humanYears = self.textfieldYears.text.intValue;
-        int catYears = humanYears * 7;
+        int catYears = humanYears / 7;
         self.labelText.text = [NSString stringWithFormat:@"Your age in Cat Years is %d.",catYears];
     }
     else {

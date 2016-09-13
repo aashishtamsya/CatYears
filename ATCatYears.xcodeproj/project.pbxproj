@@ -254,6 +254,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.felix.aashishtamsya.ATCatYears;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "8df12c4c-b975-43c3-9cc6-f735635671cc";
 			};
 			name = Debug;
 		};
@@ -266,6 +267,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.felix.aashishtamsya.ATCatYears;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "8df12c4c-b975-43c3-9cc6-f735635671cc";
 			};
 			name = Release;
 		};
