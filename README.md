@@ -13,7 +13,7 @@ Project covers basic fundamental UI elements in iOS like
 - UITextField
 - UITextFieldDelegate
 
-#Requirements
+## Requirements
 * iOS 9.0+
 * Xcode 7.0
 
@@ -24,6 +24,10 @@ Project covers basic fundamental UI elements in iOS like
 ```sh
 $ git clone https://github.com/aashishtamsya/CatYears.git 
 ```
+
+## Demo
+
+![DEMO](Resources/ATCatYears.gif)
 
 ## Contributing
 
